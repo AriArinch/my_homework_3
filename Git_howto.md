@@ -53,9 +53,9 @@ git reset HEAD~
 
 >*Удаляем коммит и изменения*
 
-```sh
-git reset --hard HEAD~
-```
+ЛЯСИ-ТРЯСИ!
+ЛЯСИ-ТРЯСИ!
+ЛЯСИ-ТРЯСИ!
 
 ## Git branch -m new-name
 
